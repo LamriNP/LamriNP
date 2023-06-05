@@ -1,0 +1,8 @@
+.appForm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 76.688rem;
+  background: url("../public/lofi_wallpaper.jpg");
+  background-position: center;
+}
